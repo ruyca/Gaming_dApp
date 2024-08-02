@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What does HTML stand for?",
+        "options": ["A. HyperText Markup Language", "B. Hyperlinks and Text Markup Language", "C. Home Tool Markup Language", "D. Hyper Tool Multi Language"],
+        "answer": "A"
+    },
+    {
+        "question": "Which programming language is known as the backbone of web development?",
+        "options": ["A. Java", "B. Python", "C. JavaScript", "D. C++"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the main advantage of the blockchain technology?",
+        "options": ["A. Centralization", "B. Security", "C. Speed", "D. None of the above"],
+        "answer": "B"
+    },
+    {
+        "question": "Which language is primarily used for developing smart contracts on Ethereum?",
+        "options": ["A. Java", "B. Solidity", "C. Python", "D. C#"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the primary consensus algorithm used by Bitcoin?",
+        "options": ["A. Proof of Stake", "B. Proof of Work", "C. Delegated Proof of Stake", "D. Byzantine Fault Tolerance"],
+        "answer": "B"
+    },
+    {
+        "question": "In Python, what is the output of 'print(2 ** 3)'?",
+        "options": ["A. 5", "B. 6", "C. 8", "D. 9"],
+        "answer": "C"
+    },
+    {
+        "question": "Which programming paradigm is focused on objects and data?",
+        "options": ["A. Procedural Programming", "B. Functional Programming", "C. Object-Oriented Programming", "D. Logical Programming"],
+        "answer": "C"
+    },
+    {
+        "question": "What is a hash function used for in blockchain technology?",
+        "options": ["A. Encrypting data", "B. Compressing data", "C. Mapping data of arbitrary size to fixed size", "D. Transmitting data"],
+        "answer": "C"
+    },
+    {
+        "question": "Which programming language is not typically used for developing blockchain applications?",
+        "options": ["A. C++", "B. Python", "C. JavaScript", "D. HTML"],
+        "answer": "D"
+    },
+    {
+        "question": "What is the native token of the Aptos blockchain?",
+        "options": ["A. BTC", "B. ETH", "C. APT", "D. SOL"],
+        "answer": "C"
+    },
+    {
+        "question": "Which feature of blockchain ensures that once data is recorded, it cannot be altered?",
+        "options": ["A. Transparency", "B. Immutability", "C. Decentralization", "D. Scalability"],
+        "answer": "B"
+    },
+    {
+        "question": "In Python, what keyword is used to handle exceptions?",
+        "options": ["A. catch", "B. try", "C. except", "D. throw"],
+        "answer": "C"
+    },
+    {
+        "question": "What type of blockchain does Aptos utilize?",
+        "options": ["A. Public", "B. Private", "C. Consortium", "D. Hybrid"],
+        "answer": "A"
+    },
+    {
+        "question": "Which method in Java is used to start a thread?",
+        "options": ["A. start()", "B. run()", "C. begin()", "D. init()"],
+        "answer": "A"
+    },
+    {
+        "question": "What is the purpose of a nonce in blockchain?",
+        "options": ["A. To store transaction data", "B. To generate new addresses", "C. To vary the input to the hash function", "D. To facilitate smart contracts"],
+        "answer": "C"
+    },
+    {
+        "question": "Which of the following is a benefit of using the Aptos blockchain?",
+        "options": ["A. High transaction fees", "B. Slow transaction times", "C. Scalability", "D. Centralized control"],
+        "answer": "C"
+    },
+    {
+        "question": "In programming, what does IDE stand for?",
+        "options": ["A. Integrated Development Environment", "B. Internal Data Encoding", "C. Integrated Data Execution", "D. Internal Development Engine"],
+        "answer": "A"
+    },
+    {
+        "question": "What is the maximum number of bitcoins that can ever exist?",
+        "options": ["A. 21 million", "B. 42 million", "C. 100 million", "D. Unlimited"],
+        "answer": "A"
+    },
+    {
+        "question": "Which Aptos blockchain consensus mechanism is designed for low latency and high throughput?",
+        "options": ["A. Proof of Work", "B. Proof of Stake", "C. BFT consensus", "D. PoET"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the primary purpose of the 'git' command in software development?",
+        "options": ["A. File transfer", "B. Version control", "C. Code compilation", "D. Package installation"],
+        "answer": "B"
+    }
+]
